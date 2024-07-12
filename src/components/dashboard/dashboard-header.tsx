@@ -7,7 +7,7 @@ import { Logo } from "../logo";
 import { Avatar } from "../ui/avatar";
 import { Button } from "../ui/button";
 import { Popover } from "../ui/popover";
-import styles from "./DashboardHeader.module.css";
+import styles from "./dashboard-header.module.css";
 
 interface Props extends ComponentProps<"header"> {
   isOpen: boolean;

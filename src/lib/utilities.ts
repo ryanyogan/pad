@@ -5,3 +5,7 @@ export function getInitials(name: string) {
     ? initials.map((initial) => initial.toUpperCase()).join("")
     : "";
 }
+
+export function normalizeTrailingSlash(string: string) {
+  return string.replace(/\/$/, "");
+}

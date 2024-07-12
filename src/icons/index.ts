@@ -1,5 +1,7 @@
 export * from "./check";
 export * from "./cross";
+export * from "./file";
+export * from "./folder";
 export * from "./github";
 export * from "./menu";
 export * from "./select";
