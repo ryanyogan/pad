@@ -79,7 +79,7 @@ export default async function Home() {
           <Feature
             description={
               <>
-                Clean and simple, good ol' fashioned CSS. No frameworks, no
+                Clean and simple, good old fashioned CSS. No frameworks, no
                 extra sauce.
               </>
             }
